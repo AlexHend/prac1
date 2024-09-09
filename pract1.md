@@ -78,7 +78,7 @@ h hello include int main n printf return stdio void world
 ```bash
 grep -o '\b[_A-Za-z][_A-Za-z0-9]*\b' hello.cpp | sort | uniq
 ```
-![image](https://github.com/user-attachments/assets/7944c18e-b95c-4060-9bc5-e8cdd2149b59)
+![image](https://github.com/AlexHend/prac1/blob/main/zadan4.png)
 
 ## Задача 5
 
