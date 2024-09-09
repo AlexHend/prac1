@@ -7,7 +7,7 @@
 ```bash
 grep -o '^[^:]*' /etc/passwd | sort
 ```
-![image](https://github.com/user-attachments/assets/afaf371f-97b3-48a6-8cc5-f3977dd0c26d)
+![image](https://github.com//AlexHend/prac1/blob/main/zadan1.png)
 
 
 ## Задача 2
