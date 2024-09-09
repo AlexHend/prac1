@@ -100,7 +100,7 @@ chmod 755 "$1"
 sudo cp "$1" /usr/local/bin/
 
 ```
-![image](https://github.com/user-attachments/assets/9a0badb0-4b36-40fd-940c-c9df3eeeed2e)
+![image](https://github.com/AlexHend/prac1/blob/main/zadan6.png)
 
 
 ## Задача 6
