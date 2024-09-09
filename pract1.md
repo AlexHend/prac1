@@ -120,7 +120,7 @@ for file in "$@"; do
   fi
 done
 ```
-![image](https://github.com/user-attachments/assets/e49f5d31-81df-46b7-b417-781938001dd0)
+![image](https://github.com/AlexHend/prac1/blob/main/zadan6.png)
 
 
 ## Задача 7
