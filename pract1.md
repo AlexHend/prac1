@@ -27,7 +27,7 @@ grep -o '^[^:]*' /etc/passwd | sort
 ```bash
 cat /etc/protocols | awk '{print $2, $1}' | sort -nr | head -n 5
 ```
-![image](https://github.com/user-attachments/assets/8cff1223-52e6-4075-9392-d40807e7fe57)
+![image](https://github.com/AlexHend/prac1/blob/main/zadan2.png)
 
 ## Задача 3
 
