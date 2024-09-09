@@ -61,7 +61,7 @@ echo -n "-"
 done
 echo "+"
 ```
-![image](https://github.com/user-attachments/assets/e9f16f9e-1db4-4f13-b656-e5b7165aef78)
+![image](https://github.com/AlexHend/prac1/blob/main/zadan3.png)
 
 
 ## Задача 4
